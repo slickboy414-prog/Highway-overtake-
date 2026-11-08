@@ -1,0 +1,876 @@
+{
+ "runs": 5000,
+ "seed": 20261108,
+ "players": {
+  "casual": [
+   {
+    "level": 1,
+    "win": 0.908,
+    "lo": 0.899,
+    "hi": 0.915,
+    "crash": 0.092,
+    "avgMass": 922
+   },
+   {
+    "level": 2,
+    "win": 0.898,
+    "lo": 0.89,
+    "hi": 0.906,
+    "crash": 0.102,
+    "avgMass": 1076
+   },
+   {
+    "level": 3,
+    "win": 0.79,
+    "lo": 0.778,
+    "hi": 0.801,
+    "crash": 0.165,
+    "avgMass": 1541
+   },
+   {
+    "level": 4,
+    "win": 0.778,
+    "lo": 0.767,
+    "hi": 0.79,
+    "crash": 0.153,
+    "avgMass": 1896
+   },
+   {
+    "level": 5,
+    "win": 0.746,
+    "lo": 0.734,
+    "hi": 0.758,
+    "crash": 0.136,
+    "avgMass": 2286
+   },
+   {
+    "level": 6,
+    "win": 0.674,
+    "lo": 0.661,
+    "hi": 0.687,
+    "crash": 0.128,
+    "avgMass": 2745
+   },
+   {
+    "level": 7,
+    "win": 0.628,
+    "lo": 0.615,
+    "hi": 0.641,
+    "crash": 0.125,
+    "avgMass": 3226
+   },
+   {
+    "level": 8,
+    "win": 0.558,
+    "lo": 0.544,
+    "hi": 0.571,
+    "crash": 0.099,
+    "avgMass": 4337
+   },
+   {
+    "level": 9,
+    "win": 0.478,
+    "lo": 0.464,
+    "hi": 0.491,
+    "crash": 0.104,
+    "avgMass": 5137
+   },
+   {
+    "level": 10,
+    "win": 0.464,
+    "lo": 0.45,
+    "hi": 0.477,
+    "crash": 0.1,
+    "avgMass": 6086
+   },
+   {
+    "level": 11,
+    "win": 0.386,
+    "lo": 0.373,
+    "hi": 0.4,
+    "crash": 0.105,
+    "avgMass": 7152
+   },
+   {
+    "level": 12,
+    "win": 0.358,
+    "lo": 0.345,
+    "hi": 0.372,
+    "crash": 0.096,
+    "avgMass": 8669
+   },
+   {
+    "level": 13,
+    "win": 0.352,
+    "lo": 0.339,
+    "hi": 0.366,
+    "crash": 0.101,
+    "avgMass": 11143
+   },
+   {
+    "level": 14,
+    "win": 0.339,
+    "lo": 0.326,
+    "hi": 0.352,
+    "crash": 0.106,
+    "avgMass": 13072
+   },
+   {
+    "level": 15,
+    "win": 0.333,
+    "lo": 0.32,
+    "hi": 0.347,
+    "crash": 0.109,
+    "avgMass": 15594
+   },
+   {
+    "level": 16,
+    "win": 0.333,
+    "lo": 0.32,
+    "hi": 0.347,
+    "crash": 0.106,
+    "avgMass": 18743
+   },
+   {
+    "level": 17,
+    "win": 0.321,
+    "lo": 0.308,
+    "hi": 0.334,
+    "crash": 0.109,
+    "avgMass": 23413
+   },
+   {
+    "level": 18,
+    "win": 0.321,
+    "lo": 0.308,
+    "hi": 0.334,
+    "crash": 0.111,
+    "avgMass": 28033
+   },
+   {
+    "level": 19,
+    "win": 0.323,
+    "lo": 0.311,
+    "hi": 0.336,
+    "crash": 0.111,
+    "avgMass": 33773
+   },
+   {
+    "level": 20,
+    "win": 0.31,
+    "lo": 0.297,
+    "hi": 0.323,
+    "crash": 0.117,
+    "avgMass": 39962
+   }
+  ],
+  "average": [
+   {
+    "level": 1,
+    "win": 0.958,
+    "lo": 0.953,
+    "hi": 0.964,
+    "crash": 0.042,
+    "avgMass": 1012
+   },
+   {
+    "level": 2,
+    "win": 0.959,
+    "lo": 0.954,
+    "hi": 0.965,
+    "crash": 0.041,
+    "avgMass": 1196
+   },
+   {
+    "level": 3,
+    "win": 0.927,
+    "lo": 0.92,
+    "hi": 0.934,
+    "crash": 0.068,
+    "avgMass": 2141
+   },
+   {
+    "level": 4,
+    "win": 0.927,
+    "lo": 0.92,
+    "hi": 0.934,
+    "crash": 0.061,
+    "avgMass": 2633
+   },
+   {
+    "level": 5,
+    "win": 0.927,
+    "lo": 0.919,
+    "hi": 0.934,
+    "crash": 0.047,
+    "avgMass": 3160
+   },
+   {
+    "level": 6,
+    "win": 0.911,
+    "lo": 0.903,
+    "hi": 0.919,
+    "crash": 0.051,
+    "avgMass": 3733
+   },
+   {
+    "level": 7,
+    "win": 0.894,
+    "lo": 0.885,
+    "hi": 0.902,
+    "crash": 0.054,
+    "avgMass": 4362
+   },
+   {
+    "level": 8,
+    "win": 0.881,
+    "lo": 0.871,
+    "hi": 0.889,
+    "crash": 0.038,
+    "avgMass": 5853
+   },
+   {
+    "level": 9,
+    "win": 0.844,
+    "lo": 0.834,
+    "hi": 0.854,
+    "crash": 0.04,
+    "avgMass": 7008
+   },
+   {
+    "level": 10,
+    "win": 0.839,
+    "lo": 0.829,
+    "hi": 0.849,
+    "crash": 0.035,
+    "avgMass": 8323
+   },
+   {
+    "level": 11,
+    "win": 0.792,
+    "lo": 0.78,
+    "hi": 0.803,
+    "crash": 0.04,
+    "avgMass": 9790
+   },
+   {
+    "level": 12,
+    "win": 0.733,
+    "lo": 0.721,
+    "hi": 0.745,
+    "crash": 0.037,
+    "avgMass": 11773
+   },
+   {
+    "level": 13,
+    "win": 0.722,
+    "lo": 0.709,
+    "hi": 0.734,
+    "crash": 0.044,
+    "avgMass": 15240
+   },
+   {
+    "level": 14,
+    "win": 0.721,
+    "lo": 0.709,
+    "hi": 0.734,
+    "crash": 0.042,
+    "avgMass": 18241
+   },
+   {
+    "level": 15,
+    "win": 0.72,
+    "lo": 0.708,
+    "hi": 0.732,
+    "crash": 0.041,
+    "avgMass": 21872
+   },
+   {
+    "level": 16,
+    "win": 0.723,
+    "lo": 0.71,
+    "hi": 0.735,
+    "crash": 0.04,
+    "avgMass": 26207
+   },
+   {
+    "level": 17,
+    "win": 0.713,
+    "lo": 0.701,
+    "hi": 0.726,
+    "crash": 0.041,
+    "avgMass": 32804
+   },
+   {
+    "level": 18,
+    "win": 0.714,
+    "lo": 0.701,
+    "hi": 0.726,
+    "crash": 0.044,
+    "avgMass": 39180
+   },
+   {
+    "level": 19,
+    "win": 0.696,
+    "lo": 0.683,
+    "hi": 0.709,
+    "crash": 0.043,
+    "avgMass": 46492
+   },
+   {
+    "level": 20,
+    "win": 0.704,
+    "lo": 0.691,
+    "hi": 0.716,
+    "crash": 0.047,
+    "avgMass": 55826
+   }
+  ],
+  "sharp": [
+   {
+    "level": 1,
+    "win": 0.995,
+    "lo": 0.993,
+    "hi": 0.997,
+    "crash": 0.005,
+    "avgMass": 1072
+   },
+   {
+    "level": 2,
+    "win": 0.996,
+    "lo": 0.994,
+    "hi": 0.998,
+    "crash": 0.004,
+    "avgMass": 1271
+   },
+   {
+    "level": 3,
+    "win": 0.996,
+    "lo": 0.994,
+    "hi": 0.997,
+    "crash": 0.004,
+    "avgMass": 2586
+   },
+   {
+    "level": 4,
+    "win": 0.996,
+    "lo": 0.994,
+    "hi": 0.997,
+    "crash": 0.004,
+    "avgMass": 3151
+   },
+   {
+    "level": 5,
+    "win": 0.993,
+    "lo": 0.991,
+    "hi": 0.995,
+    "crash": 0.005,
+    "avgMass": 3735
+   },
+   {
+    "level": 6,
+    "win": 0.994,
+    "lo": 0.991,
+    "hi": 0.996,
+    "crash": 0.004,
+    "avgMass": 4434
+   },
+   {
+    "level": 7,
+    "win": 0.993,
+    "lo": 0.991,
+    "hi": 0.995,
+    "crash": 0.004,
+    "avgMass": 5181
+   },
+   {
+    "level": 8,
+    "win": 0.992,
+    "lo": 0.989,
+    "hi": 0.994,
+    "crash": 0.004,
+    "avgMass": 6913
+   },
+   {
+    "level": 9,
+    "win": 0.984,
+    "lo": 0.981,
+    "hi": 0.987,
+    "crash": 0.005,
+    "avgMass": 8201
+   },
+   {
+    "level": 10,
+    "win": 0.99,
+    "lo": 0.987,
+    "hi": 0.992,
+    "crash": 0.003,
+    "avgMass": 9758
+   },
+   {
+    "level": 11,
+    "win": 0.987,
+    "lo": 0.983,
+    "hi": 0.989,
+    "crash": 0.003,
+    "avgMass": 11613
+   },
+   {
+    "level": 12,
+    "win": 0.982,
+    "lo": 0.977,
+    "hi": 0.985,
+    "crash": 0.004,
+    "avgMass": 13868
+   },
+   {
+    "level": 13,
+    "win": 0.982,
+    "lo": 0.978,
+    "hi": 0.986,
+    "crash": 0.004,
+    "avgMass": 18223
+   },
+   {
+    "level": 14,
+    "win": 0.985,
+    "lo": 0.982,
+    "hi": 0.988,
+    "crash": 0.003,
+    "avgMass": 21767
+   },
+   {
+    "level": 15,
+    "win": 0.982,
+    "lo": 0.978,
+    "hi": 0.986,
+    "crash": 0.003,
+    "avgMass": 26120
+   },
+   {
+    "level": 16,
+    "win": 0.981,
+    "lo": 0.977,
+    "hi": 0.984,
+    "crash": 0.004,
+    "avgMass": 31153
+   },
+   {
+    "level": 17,
+    "win": 0.979,
+    "lo": 0.975,
+    "hi": 0.983,
+    "crash": 0.004,
+    "avgMass": 38994
+   },
+   {
+    "level": 18,
+    "win": 0.978,
+    "lo": 0.973,
+    "hi": 0.982,
+    "crash": 0.004,
+    "avgMass": 46670
+   },
+   {
+    "level": 19,
+    "win": 0.98,
+    "lo": 0.975,
+    "hi": 0.983,
+    "crash": 0.005,
+    "avgMass": 55910
+   },
+   {
+    "level": 20,
+    "win": 0.981,
+    "lo": 0.976,
+    "hi": 0.984,
+    "crash": 0.005,
+    "avgMass": 66978
+   }
+  ]
+ },
+ "control": {
+  "0.45": [
+   1,
+   1,
+   0.791,
+   0.654,
+   0.569,
+   0.489,
+   0.463,
+   0.403,
+   0.38,
+   0.388,
+   0.356,
+   0.329,
+   0.305,
+   0.297,
+   0.278,
+   0.276,
+   0.246,
+   0.243,
+   0.245,
+   0.226
+  ],
+  "0.72": [
+   1,
+   1,
+   0.95,
+   0.902,
+   0.843,
+   0.773,
+   0.759,
+   0.693,
+   0.68,
+   0.672,
+   0.643,
+   0.622,
+   0.605,
+   0.588,
+   0.584,
+   0.557,
+   0.558,
+   0.549,
+   0.534,
+   0.547
+  ],
+  "0.95": [
+   1,
+   1,
+   0.999,
+   0.992,
+   0.981,
+   0.978,
+   0.971,
+   0.949,
+   0.957,
+   0.952,
+   0.934,
+   0.93,
+   0.933,
+   0.924,
+   0.927,
+   0.915,
+   0.913,
+   0.912,
+   0.902,
+   0.911
+  ]
+ },
+ "sweep": {
+  "rt": {
+   "casual=0.75": [
+    0.92,
+    0.834,
+    0.702
+   ],
+   "sharp=0.3": [
+    0.92,
+    0.834,
+    0.702
+   ]
+  },
+  "read": {
+   "casual=40": [
+    0.92,
+    0.834,
+    0.702
+   ],
+   "sharp=70": [
+    0.92,
+    0.834,
+    0.702
+   ]
+  },
+  "misread": {
+   "casual=0.2": [
+    0.86,
+    0.668,
+    0.542
+   ],
+   "sharp=0.01": [
+    0.95,
+    0.949,
+    0.795
+   ]
+  },
+  "x2": {
+   "casual=0.5": [
+    0.909,
+    0.71,
+    0.428
+   ],
+   "sharp=1": [
+    0.926,
+    0.883,
+    0.816
+   ]
+  },
+  "notice": {
+   "casual=0.75": [
+    0.837,
+    0.766,
+    0.657
+   ],
+   "sharp=0.99": [
+    0.97,
+    0.869,
+    0.747
+   ]
+  },
+  "hand": {
+   "casual=14": [
+    0.92,
+    0.834,
+    0.702
+   ],
+   "sharp=30": [
+    0.92,
+    0.834,
+    0.702
+   ]
+  }
+ },
+ "structure": [
+  {
+   "level": 1,
+   "need": 440,
+   "lines": 10,
+   "mulLine": -1,
+   "maxMass": 1050,
+   "needPctOfMax": 41.9,
+   "allSmallMass": 400,
+   "firstGateClearsBus": false,
+   "linesToBusSafe": 8,
+   "secsAtCruise": 32.9
+  },
+  {
+   "level": 2,
+   "need": 520,
+   "lines": 10,
+   "mulLine": -1,
+   "maxMass": 1250,
+   "needPctOfMax": 41.6,
+   "allSmallMass": 450,
+   "firstGateClearsBus": false,
+   "linesToBusSafe": 7,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 3,
+   "need": 1100,
+   "lines": 10,
+   "mulLine": 7,
+   "maxMass": 2440,
+   "needPctOfMax": 45.1,
+   "allSmallMass": 550,
+   "firstGateClearsBus": false,
+   "linesToBusSafe": 5,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 4,
+   "need": 1480,
+   "lines": 11,
+   "mulLine": 7,
+   "maxMass": 3005,
+   "needPctOfMax": 49.3,
+   "allSmallMass": 650,
+   "firstGateClearsBus": false,
+   "linesToBusSafe": 5,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 5,
+   "need": 1930,
+   "lines": 11,
+   "mulLine": 7,
+   "maxMass": 3600,
+   "needPctOfMax": 53.6,
+   "allSmallMass": 760,
+   "firstGateClearsBus": false,
+   "linesToBusSafe": 4,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 6,
+   "need": 2480,
+   "lines": 11,
+   "mulLine": 7,
+   "maxMass": 4280,
+   "needPctOfMax": 57.9,
+   "allSmallMass": 925,
+   "firstGateClearsBus": false,
+   "linesToBusSafe": 3,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 7,
+   "need": 2990,
+   "lines": 11,
+   "mulLine": 7,
+   "maxMass": 5045,
+   "needPctOfMax": 59.3,
+   "allSmallMass": 1090,
+   "firstGateClearsBus": false,
+   "linesToBusSafe": 3,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 8,
+   "need": 4080,
+   "lines": 12,
+   "mulLine": 8,
+   "maxMass": 6755,
+   "needPctOfMax": 60.4,
+   "allSmallMass": 1360,
+   "firstGateClearsBus": false,
+   "linesToBusSafe": 3,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 9,
+   "need": 4980,
+   "lines": 12,
+   "mulLine": 8,
+   "maxMass": 8085,
+   "needPctOfMax": 61.6,
+   "allSmallMass": 1660,
+   "firstGateClearsBus": false,
+   "linesToBusSafe": 2,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 10,
+   "need": 6010,
+   "lines": 12,
+   "mulLine": 8,
+   "maxMass": 9605,
+   "needPctOfMax": 62.6,
+   "allSmallMass": 1960,
+   "firstGateClearsBus": false,
+   "linesToBusSafe": 2,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 11,
+   "need": 7350,
+   "lines": 12,
+   "mulLine": 8,
+   "maxMass": 11505,
+   "needPctOfMax": 63.9,
+   "allSmallMass": 2320,
+   "firstGateClearsBus": false,
+   "linesToBusSafe": 2,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 12,
+   "need": 8950,
+   "lines": 12,
+   "mulLine": 8,
+   "maxMass": 13785,
+   "needPctOfMax": 64.9,
+   "allSmallMass": 2800,
+   "firstGateClearsBus": true,
+   "linesToBusSafe": 1,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 13,
+   "need": 11880,
+   "lines": 13,
+   "mulLine": 9,
+   "maxMass": 18155,
+   "needPctOfMax": 65.4,
+   "allSmallMass": 3545,
+   "firstGateClearsBus": true,
+   "linesToBusSafe": 1,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 14,
+   "need": 14330,
+   "lines": 13,
+   "mulLine": 9,
+   "maxMass": 21725,
+   "needPctOfMax": 66,
+   "allSmallMass": 4260,
+   "firstGateClearsBus": true,
+   "linesToBusSafe": 1,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 15,
+   "need": 17350,
+   "lines": 13,
+   "mulLine": 9,
+   "maxMass": 26135,
+   "needPctOfMax": 66.4,
+   "allSmallMass": 5105,
+   "firstGateClearsBus": true,
+   "linesToBusSafe": 1,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 16,
+   "need": 20940,
+   "lines": 13,
+   "mulLine": 9,
+   "maxMass": 31280,
+   "needPctOfMax": 66.9,
+   "allSmallMass": 6080,
+   "firstGateClearsBus": true,
+   "linesToBusSafe": 1,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 17,
+   "need": 26400,
+   "lines": 14,
+   "mulLine": 9,
+   "maxMass": 39250,
+   "needPctOfMax": 67.3,
+   "allSmallMass": 7870,
+   "firstGateClearsBus": true,
+   "linesToBusSafe": 1,
+   "secsAtCruise": 32.9
+  },
+  {
+   "level": 18,
+   "need": 31970,
+   "lines": 14,
+   "mulLine": 9,
+   "maxMass": 47060,
+   "needPctOfMax": 67.9,
+   "allSmallMass": 9410,
+   "firstGateClearsBus": true,
+   "linesToBusSafe": 1,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 19,
+   "need": 38580,
+   "lines": 14,
+   "mulLine": 9,
+   "maxMass": 56410,
+   "needPctOfMax": 68.4,
+   "allSmallMass": 11300,
+   "firstGateClearsBus": true,
+   "linesToBusSafe": 1,
+   "secsAtCruise": 33
+  },
+  {
+   "level": 20,
+   "need": 46330,
+   "lines": 14,
+   "mulLine": 9,
+   "maxMass": 67630,
+   "needPctOfMax": 68.5,
+   "allSmallMass": 13540,
+   "firstGateClearsBus": true,
+   "linesToBusSafe": 1,
+   "secsAtCruise": 33
+  }
+ ]
+}

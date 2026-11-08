@@ -1,0 +1,73 @@
+{
+ "level1Car": {
+  "obstacleMass": 250,
+  "playerMass": 100
+ },
+ "level1CarResult": "WRECKED MASS 100 LEVEL 1 COINS 0 Try again",
+ "level20Bus": {
+  "before": {
+   "obstacleMass": 800,
+   "playerMass": 3165
+  },
+  "massAfter": 4125,
+  "state": "playing"
+ },
+ "frames": [
+  {
+   "w": 390,
+   "h": 844,
+   "offscreen": [],
+   "x": -2.69,
+   "limit": 3.76,
+   "errors": []
+  },
+  {
+   "w": 844,
+   "h": 390,
+   "offscreen": [],
+   "x": -3.5,
+   "limit": 3.76,
+   "errors": []
+  },
+  {
+   "w": 320,
+   "h": 568,
+   "offscreen": [],
+   "x": -3.39,
+   "limit": 3.76,
+   "errors": []
+  },
+  {
+   "w": 820,
+   "h": 1180,
+   "offscreen": [],
+   "x": -3.11,
+   "limit": 3.75,
+   "errors": []
+  },
+  {
+   "w": 1440,
+   "h": 900,
+   "offscreen": [],
+   "x": -3.3,
+   "limit": 3.75,
+   "errors": []
+  },
+  {
+   "w": 600,
+   "h": 600,
+   "offscreen": [],
+   "x": -3.56,
+   "limit": 3.75,
+   "errors": []
+  },
+  {
+   "w": 1920,
+   "h": 600,
+   "offscreen": [],
+   "x": -3.49,
+   "limit": 3.75,
+   "errors": []
+  }
+ ]
+}
